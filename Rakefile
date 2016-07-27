@@ -15,8 +15,11 @@ namespace :db do
 
   db_config = YAML::load(File.open('config/database.yml'))
 
-  db_config_admin = db_config.merge(
-    {'database' => 'sqlite3', 'schema_search_path' => 'public'}
+  db_config_admin = db_config.merge
+  (
+    {
+      'database' => 'sqlite3', 'schema_search_path' => 'public'
+    }
   )
 
   desc "Create the database"
