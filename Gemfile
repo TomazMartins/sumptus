@@ -24,7 +24,7 @@ gem 'rake'
 
 # SimpleCov is a code coverage analysis tool for Ruby.
 #
-gem 'simplecov', :require => false
+gem 'simplecov', require: false
 
 # RuboCop is a Ruby static code analyzer. Out of the box it will enforce many
 #   of the guidelines outlined in the community Ruby Style Guide.

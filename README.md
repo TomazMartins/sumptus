@@ -1,6 +1,6 @@
 # Sumptus
-**Sumptus**, is a word in latim to "invoice". Sumptus is a Desktop application,
-write in Ruby, to control the family budget.
+**Sumptus**, is a word in latim to "invoice". Sumptus is a desktop application,
+write in Ruby, to control the household budget.
 
 ## How To Contribute
 To contribute with Sumptus, please, read the follow [document][to-contribute].
