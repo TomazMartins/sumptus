@@ -10,5 +10,5 @@ The authors of Sumptus are listed in this [document][to-authors].
 
 
 
-[to-contribute]: https://github.com/TomazMartins/sumptus
-[to-authors]: https://github.com/TomazMartins/sumptus
+[to-contribute]: https://github.com/TomazMartins/sumptus/blob/dev/CONTRIBUTING.md
+[to-authors]: https://github.com/TomazMartins/sumptus/blob/dev/AUTHORS.md
